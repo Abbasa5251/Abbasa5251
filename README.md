@@ -18,7 +18,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](youtube)
+➡️ [more videos...](https://www.youtube.com/channel/UCjox9dy_JAFEhGWyYmlca-Q)
 
 ---
 
