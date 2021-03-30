@@ -16,6 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Download Youtube Video and Audio using Python | ADev Tutorials](https://www.youtube.com/watch?v=E5FObNJ1VnU)
+- [Download Instagram Profile Pictures using Python | Adev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
+- [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
+- [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
+- [Getting Started with Python for Beginners - Installing Python on Windows | ADev Tutorials](https://www.youtube.com/watch?v=2a0eTiMUh9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](youtube)
