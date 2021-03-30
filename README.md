@@ -40,20 +40,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<<<<<<< HEAD
-
--   [Download Youtube Video and Audio using Python | ADev Tutorials](https://www.youtube.com/watch?v=E5FObNJ1VnU)
--   [Download Instagram Profile Pictures using Python | Adev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
--   [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
--   [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
--   [Getting Started with Python for Beginners - Installing Python on Windows | ADev Tutorials](https://www.youtube.com/watch?v=2a0eTiMUh9k)
-=======
-- [Download Youtube Video and Audio using Python | ADev Tutorials](https://www.youtube.com/watch?v=E5FObNJ1VnU)
-- [Download Instagram Profile Pictures using Python | ADev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
-- [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
-- [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
-- [Getting Started with Python for Beginners - Installing Python on Windows | ADev Tutorials](https://www.youtube.com/watch?v=2a0eTiMUh9k)
->>>>>>> e42c5d3c4d1fe7e01bd2de2db2a54ad6c18bfc90
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCjox9dy_JAFEhGWyYmlca-Q)
