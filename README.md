@@ -11,12 +11,10 @@
 
 ### Connect with me:
 
-<div style="color: white">
 [<img align="left" alt="ADev Tutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ADev Tutorials | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ADev Tutorials | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ADev Tutorials | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</div>
 
 <br />
 
@@ -42,11 +40,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Download Youtube Video and Audio using Python | ADev Tutorials](https://www.youtube.com/watch?v=E5FObNJ1VnU)
-- [Download Instagram Profile Pictures using Python | ADev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
-- [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
-- [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
-- [Getting Started with Python for Beginners - Installing Python on Windows | ADev Tutorials](https://www.youtube.com/watch?v=2a0eTiMUh9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCjox9dy_JAFEhGWyYmlca-Q)
@@ -61,7 +54,6 @@
 <details align="left">
 	<summary>:zap: Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/codeSTACKr/codeSTACKr/issues/20) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 	<!--END_SECTION:activity-->
 </details>
 
