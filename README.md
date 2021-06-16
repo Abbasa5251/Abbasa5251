@@ -59,7 +59,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/codeSTACKr/codeSTACKr/issues/20) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. 🗣 Commented on [#5](https://github.com/abhinavsagar/cryptocurrency-price-prediction/issues/5) in [abhinavsagar/cryptocurrency-price-prediction](https://github.com/abhinavsagar/cryptocurrency-price-prediction)
 	<!--END_SECTION:activity-->
 </details>
 
