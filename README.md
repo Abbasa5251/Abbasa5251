@@ -40,7 +40,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Download Youtube Video and Audio using Python | ADev Tutorials](https://www.youtube.com/watch?v=E5FObNJ1VnU)
 - [Download Instagram Profile Pictures using Python | ADev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
 - [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
 - [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
