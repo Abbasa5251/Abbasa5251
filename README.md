@@ -58,7 +58,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/abhinavsagar/cryptocurrency-price-prediction/issues/5) in [abhinavsagar/cryptocurrency-price-prediction](https://github.com/abhinavsagar/cryptocurrency-price-prediction)
+1. 🗣 Commented on [#9](https://github.com/divanov11/Django-2021/issues/9) in [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
 	<!--END_SECTION:activity-->
 </details>
 
