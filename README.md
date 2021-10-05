@@ -58,7 +58,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/divanov11/Django-2021/issues/9) in [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
+1. 💪 Opened PR [#3](https://github.com/OpenSCollab/Open-S-Collab/pull/3) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
 	<!--END_SECTION:activity-->
 </details>
 
