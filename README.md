@@ -58,7 +58,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/OpenSCollab/Open-S-Collab/pull/3) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
+1. 🗣 Commented on [#3](https://github.com/OpenSCollab/Open-S-Collab/issues/3) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
 	<!--END_SECTION:activity-->
 </details>
 
