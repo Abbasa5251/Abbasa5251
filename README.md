@@ -58,7 +58,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/OpenSCollab/Open-S-Collab/issues/3) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
+1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/crypto-tracker/pull/1) in [Abbasa5251/crypto-tracker](https://github.com/Abbasa5251/crypto-tracker)
 	<!--END_SECTION:activity-->
 </details>
 
