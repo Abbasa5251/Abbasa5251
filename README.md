@@ -58,7 +58,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/crypto-tracker/pull/1) in [Abbasa5251/crypto-tracker](https://github.com/Abbasa5251/crypto-tracker)
+1. 💪 Opened PR [#4](https://github.com/OpenSCollab/Open-S-Collab/pull/4) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
 	<!--END_SECTION:activity-->
 </details>
 
