@@ -50,10 +50,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Download Instagram Profile Pictures using Python | ADev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
-- [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
-- [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
-- [Getting Started with Python for Beginners - Installing Python on Windows | ADev Tutorials](https://www.youtube.com/watch?v=2a0eTiMUh9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCjox9dy_JAFEhGWyYmlca-Q)
@@ -68,8 +64,6 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
-2. 💪 Opened PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
 	<!--END_SECTION:activity-->
 </details>
 
