@@ -33,7 +33,7 @@
 <img alt="HTML5" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS3" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="Python" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Django" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img alt="Django" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img alt="JavaScript" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="React" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="Node.js" style="margin-right:0.5rem;" align="left" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -50,10 +50,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Download Instagram Profile Pictures using Python | ADev Tutorials](https://www.youtube.com/watch?v=uMtZlrP5LOw)
-- [How to run Python programs in command prompt without typing python | ADev Tutorials](https://www.youtube.com/watch?v=AVBWmahK8jU)
-- [Best Editor/IDE for Python - Choosing Best Editor | ADev Tutorials](https://www.youtube.com/watch?v=MD1SM00sP2s)
-- [Getting Started with Python for Beginners - Installing Python on Windows | ADev Tutorials](https://www.youtube.com/watch?v=2a0eTiMUh9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCjox9dy_JAFEhGWyYmlca-Q)
@@ -68,11 +64,7 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/Abbasa5251/pull/1) in [Abbasa5251/Abbasa5251](https://github.com/Abbasa5251/Abbasa5251)
-2. 💪 Opened PR [#1](https://github.com/Abbasa5251/Abbasa5251/pull/1) in [Abbasa5251/Abbasa5251](https://github.com/Abbasa5251/Abbasa5251)
-3. 🎉 Merged PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
-4. 💪 Opened PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
-	<!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 [website]: https://react-portfolio-gules.vercel.app/
