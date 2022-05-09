@@ -64,6 +64,10 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/Abbasa5251/pull/1) in [Abbasa5251/Abbasa5251](https://github.com/Abbasa5251/Abbasa5251)
+2. 💪 Opened PR [#1](https://github.com/Abbasa5251/Abbasa5251/pull/1) in [Abbasa5251/Abbasa5251](https://github.com/Abbasa5251/Abbasa5251)
+3. 🎉 Merged PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
+4. 💪 Opened PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
 <!--END_SECTION:activity-->
 </details>
 
