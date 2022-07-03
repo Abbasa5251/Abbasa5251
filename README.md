@@ -68,10 +68,10 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/Abbasa5251/pull/1) in [Abbasa5251/Abbasa5251](https://github.com/Abbasa5251/Abbasa5251)
-2. 💪 Opened PR [#1](https://github.com/Abbasa5251/Abbasa5251/pull/1) in [Abbasa5251/Abbasa5251](https://github.com/Abbasa5251/Abbasa5251)
-3. 🎉 Merged PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
-4. 💪 Opened PR [#1](https://github.com/Abbasa5251/File-Sharing-DRF/pull/1) in [Abbasa5251/File-Sharing-DRF](https://github.com/Abbasa5251/File-Sharing-DRF)
+1. ❗️ Closed issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
+2. ❗️ Reopened issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
+3. ❗️ Closed issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
+4. ❗️ Opened issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
 <!--END_SECTION:activity-->
 </details>
 
