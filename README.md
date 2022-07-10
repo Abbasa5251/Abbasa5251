@@ -68,10 +68,10 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
-2. ❗️ Reopened issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
+1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/Django-Authors-API/pull/1) in [Abbasa5251/Django-Authors-API](https://github.com/Abbasa5251/Django-Authors-API)
+2. 💪 Opened PR [#1](https://github.com/Abbasa5251/Django-Authors-API/pull/1) in [Abbasa5251/Django-Authors-API](https://github.com/Abbasa5251/Django-Authors-API)
 3. ❗️ Closed issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
-4. ❗️ Opened issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
+4. ❗️ Reopened issue [#1](https://github.com/API-Imperfect/authors-haven-api-live/issues/1) in [API-Imperfect/authors-haven-api-live](https://github.com/API-Imperfect/authors-haven-api-live)
 <!--END_SECTION:activity-->
 </details>
 
