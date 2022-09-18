@@ -68,10 +68,10 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Abbasa5251/Django---React--Spotify-API-/issues/1) in [Abbasa5251/Django---React--Spotify-API-](https://github.com/Abbasa5251/Django---React--Spotify-API-)
-2. 🗣 Commented on [#1](https://github.com/Abbasa5251/Django---React--Spotify-API-/issues/1) in [Abbasa5251/Django---React--Spotify-API-](https://github.com/Abbasa5251/Django---React--Spotify-API-)
-3. ❗️ Opened issue [#1](https://github.com/Abbasa5251/Django---React--Spotify-API-/issues/1) in [Abbasa5251/Django---React--Spotify-API-](https://github.com/Abbasa5251/Django---React--Spotify-API-)
-4. 🎉 Merged PR [#1](https://github.com/Abbasa5251/adev-devsearch/pull/1) in [Abbasa5251/adev-devsearch](https://github.com/Abbasa5251/adev-devsearch)
+1. 🎉 Merged PR [#1](https://github.com/Abbasa5251/ADev-API/pull/1) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+2. 🗣 Commented on [#1](https://github.com/Abbasa5251/ADev-API/issues/1) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+3. 💪 Opened PR [#1](https://github.com/Abbasa5251/ADev-API/pull/1) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+4. ❗️ Closed issue [#1](https://github.com/Abbasa5251/Django---React--Spotify-API-/issues/1) in [Abbasa5251/Django---React--Spotify-API-](https://github.com/Abbasa5251/Django---React--Spotify-API-)
 <!--END_SECTION:activity-->
 </details>
 
