@@ -68,10 +68,10 @@
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
 	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Abbasa5251/ADev-API/pull/4) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
-2. 💪 Opened PR [#4](https://github.com/Abbasa5251/ADev-API/pull/4) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
-3. 🎉 Merged PR [#3](https://github.com/Abbasa5251/ADev-API/pull/3) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
-4. 💪 Opened PR [#3](https://github.com/Abbasa5251/ADev-API/pull/3) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+1. 🎉 Merged PR [#7](https://github.com/Abbasa5251/ADev-API/pull/7) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+2. 💪 Opened PR [#7](https://github.com/Abbasa5251/ADev-API/pull/7) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+3. 🎉 Merged PR [#6](https://github.com/Abbasa5251/ADev-API/pull/6) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
+4. 💪 Opened PR [#6](https://github.com/Abbasa5251/ADev-API/pull/6) in [Abbasa5251/ADev-API](https://github.com/Abbasa5251/ADev-API)
 <!--END_SECTION:activity-->
 </details>
 
