@@ -97,3 +97,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/abbasa5251/abbasa5251/output/snake.svg" alt="Snake animation" />
+
+###
